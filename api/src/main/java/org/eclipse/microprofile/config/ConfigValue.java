@@ -20,7 +20,6 @@ package org.eclipse.microprofile.config;
  * Accessor to a configured value {@link #getValue()}, this is to be used for property injection.
  * e.g. @Inject @ConfigProperty("myProp") ConfigValue<String> myValue;
  * @author <a href="mailto:struberg@apache.org">Mark Struberg</a>
- * @author <a href="mailto:gpetracek@apache.org">Gerhard Petracek</a>
  * @author <a href="mailto:rsmeral@jboss.org">Ron Smeral</a>
  * @author Ondrej Mihalyi
  * @author <a href="mailto:emijiang@uk.ibm.com">Emily Jiang</a>
